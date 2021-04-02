@@ -1,0 +1,10 @@
+.btn {
+    padding: 10px 20px;
+    border-radius: 3px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    grid-row: 3;
+    grid-column: 3;
+  }
